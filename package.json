@@ -1,0 +1,15 @@
+{
+  "name": "Final Project Chat Room",
+  "version": "1.0.0",
+  "description": "Chat Room app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "author": "Haythem Jlassi",
+  "license": "",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "^1.7.2"
+  }
+}
